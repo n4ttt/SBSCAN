@@ -119,9 +119,7 @@ $ python3 sbscan.py -f url.txt -t 4 -d 5pugcrp1.eyes.sh --quiet
 * Bug 反馈或新功能建议[点我](https://github.com/sule01u/SBSCAN/issues)
 * WeChat: 扫码关注**不懂安全**
 * 欢迎pr
-<p>
-    <img alt="QR-code" src="https://github.com/sule01u/BigTree975.github.io/blob/master/img/mine.png" width="30%" height="30%" style="max-width:100%;">
-</p>
+* 欢迎
 
 ## 📑 Licenses
 
